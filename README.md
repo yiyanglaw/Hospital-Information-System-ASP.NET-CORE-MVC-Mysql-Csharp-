@@ -1,1 +1,1 @@
-# Hospital-Information-System-ASP.NET-CORE-MVC-Mysql-Csharp-
+# Hospital-Information-System-ASP.NET-CORE-MVC-Mysql-Csharp-Simple
